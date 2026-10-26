@@ -1,31 +1,28 @@
+# Всем привет, меня зовут Vildan 👋
+
+<sub>C++ Software Engineer, специализируюсь на Windows low-level программировании, манипуляции памятью процессов, Reverse Engineering и изучаю архитектуру сетевого взаимодействия.</sub>
+
 <div align="center">
+  
+[![Followers](https://img.shields.io/github/followers/VildanWW?style=flat&logo=github&logoColor=black&label=Followers&labelColor=white&color=white)](https://github.com/VildanWW)
+[![Stars](https://img.shields.io/github/stars/VildanWW?style=flat&logo=github&logoColor=black&label=Stars&labelColor=white&color=white)](https://github.com/VildanWW?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=VildanWW&label=Profile%20views&color=000000&labelColor=grey&style=flat)
 
-## Hi there 👋
-
-**C++ Software Engineer**, специализируюсь на low-level программировании и системной разработке. Разрабатываю программное обеспечение на всех уровнях: от работы с памятью процессов и реверс-инжиниринга (Internal и External решения) до сетевого взаимодействия и серверной логики.
-
-В своей работе плотно использую C++, WinAPI, инструменты для анализа бинарного кода (Ghidra, Cheat Engine, x64dbg), а также уделяю большое внимание алгоритмам и структурам данных. 
-
-Помимо коммерческой и исследовательской разработки, развиваю open-source: пишу интерактивный учебник по геймхакингу и работе с памятью, а также веду YouTube-канал, где объясняю сложные технические темы простым языком.
-
-<br>
-
-![Followers](https://img.shields.io/github/followers/VildanWW?label=Followers&style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/VildanWW?label=Stars&style=flat-square&color=yellow)
-![Profile views](https://komarev.com/ghpvc/?username=VildanWW&label=Profile%20views&color=blue&style=flat-square)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VildanWW)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Merci37)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbulatov.vildan@gmail.com)
 
 </div>
-<!--
-**VildanWW/VildanWW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Приоритетные направления
+---
+* **Reverse Engineering:** анализ бинарного кода, работа с игровыми движками и изучение механизмов анти-читов.
+* **Low-Level:** системное программирование на C++,  работа с памятью процессов и разработка Internal/External инструментов.
+* **Network Programming:** работа с низкоуровневыми сокетами(TCP/IP) и библиотекой `boost.asio`.
+* **Algorithms and Data Structures:** применение эффективных алгоритмов и структур данных для оптимизации производительности кода.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Рекомендуемые репозитории
+---
+* [cs16-external-tool-Aurora](https://github.com/VildanWW/WinAPI-Process-Debugger) — External-инструмент для динамического анализа памяти и автоматизации игрового движка GoldSrc. Работает в изолированном адресном пространстве через системные вызовы WinAPI без инжекции библиотек.`(C++, WinAPI, DirectX 9, Multithreading)`
+* [cs16-internal-tool-NovaMem_Engine](https://github.com/VildanWW/Low-Level-Process-Memory-Controller-Desktop-GUI) — Внутрипроцессное (Internal) решение для исследования движка GoldSrc, совмещенное с интерактивным открытым учебником. Проект ориентирован на изучение хуков, реверс-инжиниринг структур данных и построение архитектуры низкоуровневого ПО. `(C++, WinAPI, ImGui, OpenGL 2, Hooks)`
